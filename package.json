@@ -1,7 +1,10 @@
 {
   "name": "statscript",
   "version": "0.0.93",
-  "repository": "git@github.com:ts-statscript/statscript.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ts-statscript/statscript.git"
+  },
   "author": {
     "name": "Dereck Mezquita",
     "email": "dereck@mezquita.io"
