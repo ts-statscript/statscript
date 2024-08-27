@@ -10,5 +10,5 @@ The package is published on two events:
 In order to install the alpha release, you can run:
 
 ```bash
-yarn add statscript@0.0.2-dev.0
+yarn add statscript@dev
 ```
